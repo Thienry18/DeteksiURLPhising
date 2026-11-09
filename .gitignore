@@ -1,0 +1,4 @@
+.venv-laporan/
+.cache-uv/
+.jupyter/
+__pycache__/

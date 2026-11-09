@@ -1,0 +1,8 @@
+,Terpasang,Referensi laporan,Sama
+python,3.12.14,3.12.7,False
+numpy,2.3.5,1.26.4,False
+pandas,2.2.3,2.2.2,False
+scikit-learn,1.8.0,1.5.1,False
+imbalanced-learn,0.14.2,0.12.3,False
+xgboost,3.4.1,3.4.1,True
+tldextract,5.1.2,5.1.2,True
